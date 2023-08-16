@@ -2,9 +2,9 @@
     {
         "Broker_Id__c": 1,
         "Name": "Caroline Kingsley",
-        "Title__c": "Senior Broker",
-        "Phone__c": "617-244-3672",
-        "Mobile_Phone__c": "617-244-3672",
+        "Title__c": "Senior Poker",
+        "Phone__c": "617-244-1111",
+        "Mobile_Phone__c": "617-244-1111",
         "Email__c": "caroline@dreamhouse.demo",
         "Picture__c": "https://s3-us-west-2.amazonaws.com/dev-or-devrl-s3-bucket/sample-apps/people/caroline_kingsley.jpg"
     },
